@@ -1,4 +1,4 @@
-achraf52-git
+Achraf52
 ============
 
 My GitHub app and repository.
